@@ -1,5 +1,5 @@
 # SelfCook
 
-My first project made for code academy between september - october/22, doesnt now how to use git or github correclty with Eclipse IDE. 
+This project was created during my JAVA Programming course in September to October 2022.  I encountered challenges in using Git and GitHub effectively with the Eclipse IDE.
 
 NEED UPDATE TO FINAL VERSION
